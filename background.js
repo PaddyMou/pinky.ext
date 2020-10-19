@@ -118,6 +118,8 @@ const collectibles = [
 	"233979928224b1254b60f63c7eafd96651f9ea6a.png", // collectible_training_dummy_01.png
 	"98ff078c8804608fff67ce5c1f11ee8abeb89633.png", // collectible_used_hammer.png
 	"f7890455b2a22f29265b63966cfa22f0dd069906.png", // collectible_wine_barrel.png
+	"81e7f9a675419291fe18e576bb2be422b7614e67.png", // AE handcart
+	"70f3396b618644a2b525be39c8da046681ad59cc.png", // AE crates
 ];
 
 const replacement = 
