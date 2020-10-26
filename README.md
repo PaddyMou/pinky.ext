@@ -52,9 +52,3 @@ Happy collecting! ;-)
 Pinky needs to read and change your data on TSO-related sites.
 
 It has no access to any of your personal/profile data.
-
-## Tips
-
-If you really like...
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BVCT6E8FW7P7Q&lc=US&item_name=perceptron8%2fpinky&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a>
